@@ -36,6 +36,6 @@ A Gym Management System built using Java and Swing, designed to efficiently mana
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/gym-management-system.git
+git clone https://github.com/gym-management-system.git
 cd gym-management-system
 
